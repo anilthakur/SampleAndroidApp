@@ -10,4 +10,7 @@ jobs:
                
                - name: Run a one-line script
                  run: ./gradlew build
+                 
+               - name: Run a one-line script
+                 run: ./gradlew assemble
      
